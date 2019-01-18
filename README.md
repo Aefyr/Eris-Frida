@@ -1,3 +1,5 @@
+#Eris-Frida
+
 ##Description
 Eris-Frida removes certificates checks from `android.security.net.config.NetworkSecurityTrustManager` class, bypassing [Android's native SSL pinning](https://android-developers.googleblog.com/2016/07/changes-to-trusted-certificate.html) defined by network security config xml file.
 
